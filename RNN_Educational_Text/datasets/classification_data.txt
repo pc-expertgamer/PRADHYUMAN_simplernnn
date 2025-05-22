@@ -1,0 +1,104 @@
+# Math (Additional Examples)
+The derivative of a function measures the sensitivity to change of the function value with respect to another variable.|Math
+An integer is a whole number that can be positive negative or zero not a fraction.|Math
+Matrix multiplication involves a row-by-column product to yield a new matrix.|Math
+A geometric series is a sum of terms where each term after the first is found by multiplying the previous one by a fixed non-zero number called the common ratio.|Math
+Prime factorization expresses a number as a product of its prime number factors.|Math
+A polynomial is an expression consisting of indeterminates and coefficients that involves only the operations of addition subtraction multiplication and non-negative integer exponentiation of variables.|Math
+The Riemann hypothesis is a conjecture about the distribution of nontrivial zeros of the Riemann zeta function.|Math
+In topology a manifold is a topological space that locally resembles Euclidean space near each point.|Math
+A Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers.|Math
+Set notation uses curly braces to list elements like A equals one two three.|Math
+Logarithms are the inverse operation to exponentiation just as division is the inverse of multiplication.|Math
+The Pythagorean identity states that sine squared theta plus cosine squared theta equals one for any angle theta.|Math
+A vector is a quantity that has both magnitude and direction often represented by an arrow.|Math
+The quadratic formula solves equations in the form ax squared plus bx plus c equals zero.|Math
+Differential equations involve derivatives of an unknown function with respect to one or more variables.|Math
+Eigenvalues and eigenvectors are special scalars and vectors associated with linear transformations.|Math
+The binomial theorem provides a formula for expanding powers of binomials.|Math
+A complex number has the form a plus bi where i is the imaginary unit defined as the square root of negative one.|Math
+Group theory studies algebraic structures known as groups and their properties.|Math
+The Fundamental Theorem of Calculus establishes the relationship between differentiation and integration.|Math
+Bayes theorem describes the probability of an event based on prior knowledge of conditions related to the event.|Math
+A fractal is a geometric figure that exhibits self-similarity at various scales.|Math
+The Fourier transform decomposes a function of time into its constituent frequencies.|Math
+A Markov chain is a stochastic model describing a sequence of possible events where the probability of each event depends only on the state in the previous event.|Math
+Modular arithmetic deals with integer arithmetic with wrap-around behavior at some fixed value called the modulus.|Math
+# Science (Additional Examples)
+The process of photosynthesis converts light energy into chemical bonds for plant growth.|Science
+Gravity is the force by which a planet or other body draws objects toward its center.|Science
+Mitochondria are responsible for generating most of the cell's supply of adenosine triphosphate used as a source of chemical energy.|Science
+An ecosystem includes all of the living things plants animals and organisms in a given area interacting with each other and also with their non-living environments weather earth sun soil climate atmosphere.|Science
+The periodic table arranges chemical elements by atomic number electron configuration and recurring chemical properties.|Science
+Natural selection is a core mechanism of evolution where organisms better adapted to their environment tend to survive and produce more offspring.|Science
+A molecule is an electrically neutral group of two or more atoms held together by chemical bonds.|Science
+Plate tectonics describes the large-scale motion of seven large plates and the movements of a larger number of smaller plates of Earth's lithosphere.|Science
+The human brain controls thought memory emotion touch motor skills vision breathing temperature hunger and every process that regulates our body.|Science
+Vaccination primes the immune system to recognize and fight specific pathogens effectively.|Science
+Quantum entanglement occurs when particles become correlated in such a way that the quantum state of each particle cannot be described independently of the others.|Science
+Thermodynamics is the branch of physics that deals with heat work and temperature and their relation to energy entropy and physical properties of matter and radiation.|Science
+The Doppler effect is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.|Science
+Cellular respiration is the process by which cells convert nutrients into ATP and waste products.|Science
+Neurotransmitters are chemical messengers that transmit signals across a chemical synapse from one neuron to another target neuron.|Science
+The electromagnetic spectrum encompasses all wavelengths of electromagnetic radiation from radio waves to gamma rays.|Science
+Enzymes are biological molecules that significantly speed up the rate of virtually all chemical reactions that take place within cells.|Science
+The carbon cycle is the biogeochemical cycle by which carbon is exchanged among the biosphere pedosphere geosphere hydrosphere and atmosphere of the Earth.|Science
+Homeostasis is the state of steady internal physical and chemical conditions maintained by living systems.|Science
+The theory of relativity describes the relationship between space and time and forms the basis for modern physics.|Science
+RNA interference is a biological process in which RNA molecules inhibit gene expression or translation.|Science
+The endocrine system is a chemical messenger system comprising feedback loops of hormones released by internal glands.|Science
+Superposition in quantum mechanics is the ability of a quantum system to be in multiple states at the same time until measured.|Science
+Biodiversity refers to the variety and variability of life on Earth and is a measure of variation at the genetic species and ecosystem level.|Science
+Osmosis is the spontaneous net movement of solvent molecules through a selectively permeable membrane into a region of higher solute concentration.|Science
+# History (Additional Examples)
+The Treaty of Versailles officially ended World War One between Germany and the Allied Powers.|History
+Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt.|History
+The Silk Road was an ancient network of trade routes that connected the East and West.|History
+The Crusades were a series of religious wars initiated supported and sometimes directed by the Latin Church in the medieval period.|History
+The Reformation was a major movement within Western Christianity in 16th-century Europe that posed a religious and political challenge to the Catholic Church.|History
+The Ming Dynasty ruled China from 1368 to 1644 A.D. during which China's population would double.|History
+The Byzantine Empire was the continuation of the Roman Empire in its eastern provinces during Late Antiquity and the Middle Ages.|History
+The invention of the printing press by Johannes Gutenberg around 1440 revolutionized the spread of information.|History
+The American Revolution was an ideological and political revolution which occurred in colonial North America between 1765 and 1783.|History
+The French Revolution led to the end of the monarchy and established a republic.|History
+The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s beginning in the United States.|History
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.|History
+The Ottoman Empire was one of the largest and longest lasting empires in history spanning 600 years from the 13th century to the end of World War I.|History
+The Meiji Restoration was a political and social revolution in Japan in 1868 that ended the power of the Tokugawa shogun and restored the Emperor to a central position.|History
+The Mayflower Compact was the first governing document of Plymouth Colony signed in 1620 by the male passengers of the Mayflower.|History
+The Cultural Revolution was a sociopolitical movement in China from 1966 until 1976 launched by Mao Zedong.|History
+The Manhattan Project was a research and development undertaking during World War II that produced the first nuclear weapons.|History
+The Magna Carta was a charter of rights agreed to by King John of England in 1215 establishing for the first time the principle that everybody including the king was subject to the law.|History
+The Age of Exploration was a period from the early 15th century until the early 17th century when European ships traveled around the world to search for new trading routes and partners.|History
+The Russian Revolution of 1917 was a period of political and social revolution that led to the establishment of the Soviet Union.|History
+The Opium Wars were two wars in the mid-19th century involving China and the British Empire over the British trade of opium and China's sovereignty.|History
+The Partition of India was the division of British India in 1947 into two independent dominions India and Pakistan.|History
+The Cuban Missile Crisis was a 13-day confrontation between the United States and the Soviet Union initiated by the American discovery of Soviet ballistic missile deployment in Cuba.|History
+The Neolithic Revolution marked the transition in human history from small nomadic bands of hunter-gatherers to larger agricultural settlements and early civilization.|History
+The Spanish Inquisition was established in 1478 by Catholic Monarchs Ferdinand and Isabella to maintain Catholic orthodoxy in their kingdoms.|History
+# English (Additional Examples)
+A simile is a figure of speech that directly compares two things using words like or as.|English
+Metaphorical language makes a comparison between two unlike things without using like or as.|English
+The protagonist is the main character in a story novel drama or other literary work.|English
+Foreshadowing is a literary device in which a writer gives an advance hint of what is to come later in the story.|English
+An oxymoron combines two seemingly contradictory terms for a special effect.|English
+Syntax refers to the arrangement of words and phrases to create well-formed sentences in a language.|English
+Irony is a contrast or incongruity between expectations for a situation and what is reality.|English
+A sonnet is a fourteen-line poem written in iambic pentameter employing one of several rhyme schemes and adhering to a tightly structured thematic organization.|English
+Narrative perspective determines through whose eyes the story is told such as first-person or third-person.|English
+Alliteration is the repetition of the same sounds usually consonants at the beginning of words or stressed syllables.|English
+Onomatopoeia refers to words that phonetically imitate resemble or suggest the sound that they describe.|English
+A hyperbole is an exaggerated statement or claim not meant to be taken literally.|English
+Personification is the attribution of human qualities to objects or abstract notions.|English
+The denouement is the final part of a narrative in which the strands of the plot are drawn together and matters are explained or resolved.|English
+Imagery is language that appeals to the senses creating visual auditory tactile olfactory or gustatory images.|English
+A motif is a recurring element that has symbolic significance in a story.|English
+Assonance is the repetition of vowel sounds to create internal rhyming within phrases or sentences.|English
+The exposition is the part of a story that introduces important background information to the audience.|English
+A euphemism is a mild or indirect word or expression substituted for one considered to be too harsh or blunt.|English
+Characterization is the way in which authors convey information about their characters.|English
+Stream of consciousness is a narrative mode that seeks to portray an individual's point of view by giving the written equivalent of the character's thought processes.|English
+A paradox is a statement that appears to be self-contradictory or silly but may include a latent truth.|English
+Dramatic irony occurs when the audience knows something that the characters do not.|English
+Symbolism is the use of symbols to signify ideas and qualities by giving them symbolic meanings that are different from their literal sense.|English
+Consonance is the repetition of consonant sounds within words placed near each other.|English
